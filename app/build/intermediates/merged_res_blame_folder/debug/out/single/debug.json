@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/layout_fragment_tip.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/fragment_tip.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/drawable_bottom_talk.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/drawable/bottom_talk.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/drawable_logo.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/drawable/logo.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/layout_custom_dialog.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/drawable_bottom_hometap.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/drawable/bottom_hometap.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/layout_activity_setting.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/layout_content_rv_item.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/content_rv_item.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/drawable_main_icon_cook.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/drawable/main_icon_cook.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/drawable_main_icon_life.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/drawable/main_icon_life.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/layout_fragment_home.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/drawable_btnwrite.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/drawable/btnwrite.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/drawable_main_icon_economy.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/drawable/main_icon_economy.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/xml_backup_rules.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/drawable_main_icon_else.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/drawable/main_icon_else.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/layout_activity_content_list.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/activity_content_list.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/layout_fragment_bookmark.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/fragment_bookmark.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/drawable_main_icon_hobby.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/drawable/main_icon_hobby.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/drawable_main_menu.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/drawable/main_menu.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/layout_activity_join.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/activity_join.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/drawable_bottom_bookmark.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/drawable/bottom_bookmark.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/drawable_min_logo.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/drawable/min_logo.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/drawable_bookmark_white.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/drawable/bookmark_white.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/drawable_main_icon_oneroom.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/drawable/main_icon_oneroom.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/layout_activity_content_show.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/activity_content_show.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/drawable_bottom_store.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/drawable/bottom_store.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/layout_board_list_item.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/board_list_item.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/drawable_plusbtn.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/drawable/plusbtn.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/layout_fragment_talk.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/fragment_talk.xml"
+    },
+    {
+        "merged": "com.study.mysololife.app-merged_res-59:/layout_fragment_home.xml.flat",
+        "source": "com.study.mysololife.app-main-61:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/drawable_upperbg.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/drawable/upperbg.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/drawable_main_icon_interior.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/drawable/main_icon_interior.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/drawable_bottom_goodtip.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/drawable/bottom_goodtip.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/layout_fragment_store.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/fragment_store.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/layout_activity_intro.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/activity_intro.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/layout_activity_board_edit.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/activity_board_edit.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/drawable_bookmark_color.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/drawable/bookmark_color.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/navigation_main_nav.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/navigation/main_nav.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/layout_comment_list_item.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/comment_list_item.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/layout_activity_board_inside.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/activity_board_inside.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/drawable_background_radius_yellow.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/drawable/background_radius_yellow.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/drawable_main_icon_all.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/drawable/main_icon_all.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/drawable_loginbg.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/drawable/loginbg.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/layout_activity_login.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/layout_activity_main.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/drawable_background_radius.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/drawable/background_radius.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/layout_activity_board_write.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/activity_board_write.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-merged_res-59:/layout_activity_splash.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/activity_splash.xml"
+    }
+]

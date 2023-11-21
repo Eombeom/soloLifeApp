@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">540776878392</string>
+    <string name="google_api_key" translatable="false">AIzaSyBnHSztQ9K2VNY5zZ58PIj1lVAd-FdKJ1A</string>
+    <string name="google_app_id" translatable="false">1:540776878392:android:22378428aece32a33771cd</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBnHSztQ9K2VNY5zZ58PIj1lVAd-FdKJ1A</string>
+    <string name="google_storage_bucket" translatable="false">sololife-e620c.appspot.com</string>
+    <string name="project_id" translatable="false">sololife-e620c</string>
+</resources>

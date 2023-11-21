@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-mergeDebugResources-58:/layout/fragment_talk.xml",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/fragment_talk.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-mergeDebugResources-58:/layout/activity_join.xml",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/activity_join.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-mergeDebugResources-58:/layout/activity_board_inside.xml",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/activity_board_inside.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-mergeDebugResources-58:/layout/activity_login.xml",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-mergeDebugResources-58:/layout/activity_board_edit.xml",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/activity_board_edit.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-mergeDebugResources-58:/layout/fragment_tip.xml",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/fragment_tip.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-mergeDebugResources-58:/layout/fragment_bookmark.xml",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/fragment_bookmark.xml"
+    },
+    {
+        "merged": "com.study.mysololife.app-mergeDebugResources-58:/layout/fragment_home.xml",
+        "source": "com.study.mysololife.app-main-61:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-mergeDebugResources-58:/layout/fragment_home.xml",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-mergeDebugResources-58:/layout/activity_intro.xml",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/activity_intro.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-mergeDebugResources-58:/layout/activity_board_write.xml",
+        "source": "/Users/new/.gradle/daemon/8.0/com.study.mysololife.app-main-61:/layout/activity_board_write.xml"
+    }
+]

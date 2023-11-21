@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="mainColor">#ffd400</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MySoloLife</string>
+    <string name="gcm_defaultSenderId" translatable="false">540776878392</string>
+    <string name="google_api_key" translatable="false">AIzaSyBnHSztQ9K2VNY5zZ58PIj1lVAd-FdKJ1A</string>
+    <string name="google_app_id" translatable="false">1:540776878392:android:22378428aece32a33771cd</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBnHSztQ9K2VNY5zZ58PIj1lVAd-FdKJ1A</string>
+    <string name="google_storage_bucket" translatable="false">sololife-e620c.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="project_id" translatable="false">sololife-e620c</string>
+    <style name="AuthEditText" parent="android:Widget.EditText">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:layout_margin">10dp</item>
+    </style>
+    <style name="Base.Theme.MySoloLife" parent="Theme.AppCompat.Light">
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">@color/mainColor</item>
+        
+        
+    </style>
+    <style name="Theme.MySoloLife" parent="Base.Theme.MySoloLife"/>
+</resources>
